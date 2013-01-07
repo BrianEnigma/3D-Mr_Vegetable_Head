@@ -28,6 +28,10 @@ this kit.  Everything was eventually eaten.
 
 ##Parts
 
+Find the parts on Thingiverse, pre-rendered and ready to print at
+<http://www.thingiverse.com/thing:40604> or search there for the tag
+"[MrVegetableHead][]".
+
 - **Pegs** :: There are 10mm, 20mm, and 30mm pegs.  These are sharp on one
   end (the end that pierces the plant matter).  The other end mates with
   certain parts that require the assistance of pegs (eyes, shoes).
