@@ -26,6 +26,20 @@ when they play with it.
 No fruit or vegetables were wasted in the design and photographing of
 this kit.  Everything was eventually eaten.
 
+##Parts
+
+- **Pegs** :: There are 10mm, 20mm, and 30mm pegs.  These are sharp on one
+  end (the end that pierces the plant matter).  The other end mates with
+  certain parts that require the assistance of pegs (eyes, shoes).
+- **Eyes** :: This is a basic set of eyes.  There is an all-in-one single
+  color print version (eyes-singlecolor.stl).  If you have a DualStruder, 
+  you can merge eyes-twocolor-white.stl with eyes-twocolor-pupils.stl.  Or
+  if you have no dualstruder but have different colors of filament, you can
+  just print the whites and pupils (in this case, you'll have to move the 
+  pupils down onto the print floor) and snap them together.
+- **Arms** :: Two variations, one vaguely left-ish and one vaguely right-ish.
+- **Shoes** :: Everyone needs something to stand on.
+
 ##A Call to Arms!
 
 Please help make additional Mr. Vegetable Head parts.  My artistic skill
@@ -33,6 +47,7 @@ in the 3D realm is, perhaps, not the greatest.  We can use help with
 all sorts of pieces:
 
 - More realistic arms
+- More expressive eyes
 - Noses
 - Mouths
 - Ears
