@@ -40,7 +40,7 @@ this kit.  Everything was eventually eaten.
 - **Arms** :: Two variations, one vaguely left-ish and one vaguely right-ish.
 - **Shoes** :: Everyone needs something to stand on.
 
-##A Call to Arms!
+##A Call to *Arms*!
 
 Please help make additional Mr. Vegetable Head parts.  My artistic skill
 in the 3D realm is, perhaps, not the greatest.  We can use help with
@@ -57,4 +57,6 @@ all sorts of pieces:
 
 If you make additional parts or derivatives of existing parts, be sure to 
 post them to [Thingiverse](http://thingiverse.com) and tag them with
-"MrVegetableHead".  Let's build up an awesome collection!
+"[MrVegetableHead][]".  Let's build up an awesome collection!
+
+[MrVegetableHead]: http://www.thingiverse.com/tag:MrVegetableHead
