@@ -15,11 +15,11 @@ IRIS_DIAMETER = 4;
 module peg_negative()
 {
     // Main body
-    translate(v = [(PEG_WIDTH + TOLERANCE) / -2, 0, 0])
-        cube(size = [PEG_WIDTH + TOLERANCE, PEG_NEGATIVE_LENGTH + 1, PEG_THICKNESS + TOLERANCE]);
+    translate(v = [(PEG_WIDTH + TOLERANCE * 2) / -2, 0, 0])
+        cube(size = [PEG_WIDTH + TOLERANCE * 2, PEG_NEGATIVE_LENGTH + 1, PEG_THICKNESS + TOLERANCE * 2]);
     // Spine
-    translate(v = [PEG_THICKNESS / -2, 0, 0])
-        cube(size = [PEG_THICKNESS + TOLERANCE, PEG_NEGATIVE_LENGTH + 1, PEG_SPINE_HEIGHT + TOLERANCE]);
+    translate(v = [(PEG_THICKNESS + TOLERANCE * 2) / -2, 0, 0])
+        cube(size = [PEG_THICKNESS + TOLERANCE * 2, PEG_NEGATIVE_LENGTH + 1, PEG_SPINE_HEIGHT + TOLERANCE]);
     
 }
 
